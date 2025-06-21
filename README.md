@@ -104,3 +104,6 @@
 ```bash
 git clone https://github.com/yourusername/parkinson-voice-detection.git
 cd parkinson-voice-detection# -
+
+## Установка и использование
+Новикова Анастасия, Лепендина Злата, Колесников Алексей, Толстой Егор, Солохов Руслан
