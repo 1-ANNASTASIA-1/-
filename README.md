@@ -98,13 +98,6 @@
 | Recall       | 100%         | 50%      |
 | F1-score     | 100%         | 0.49     |
 
-## Установка и использование
-
-1. Клонировать репозиторий:
-```bash
-git clone https://github.com/yourusername/parkinson-voice-detection.git
-cd parkinson-voice-detection# -
-
 ## Авторы содержание
 Новикова Анастасия
 
